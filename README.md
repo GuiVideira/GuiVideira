@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Guilherme Videira</h1>
 <h3 align="center">Fã de programação, análise de dados e técnologia.</h3>
 
-- 🌱 Estou aprendendo sobre **C, Python e banco de dados.**
+- 🌱 Estou aprendendo sobre **Flutter, Dart e banco de dados.**
 
 - 📫 Você pode falar comigo através do meu e-mail: **guilhermeevideira15@gmail.com**
 
