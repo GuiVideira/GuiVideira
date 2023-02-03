@@ -1,35 +1,37 @@
-<h1 align="center">Oi 👋, eu sou o Guilherme Videira</h1>
-<h3 align="center">Fã de programação, análise de dados e técnologia.</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3FB6D3&height=120&section=header"/>
 
-- 🌱 Estou aprendendo sobre **Flutter e Dart .**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3FB6D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Videira;I'm+19+years+old;I'm+from+Brazil;I'm+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuiVideira&show_icons=true&count_private=true&hide_border=true&title_color=3fb6d3&icon_color=3fb6d3&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Videira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVideira&layout=compact&hide_border=true&title_color=3fb6d3&text_color=3fb6d3&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuiVideira&bg_color=0d1117&color=3fb6d3&line=ffffff&point=3fbcd3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div style="display: inline_block"><br>
+  <h3 align="center">Languages and Tools:</h3>       
+  <img align="center" alt="Gui-Flutter-Dart" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="GuiVideira-Dart" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" >
+  <img align="center" alt="GuiVideira-C" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+  <img align="center" alt="David-Vscode" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+
+<h3 align="center">Algumas informações sobre quem sou eu!!!</h3>
+-    Fã de programação e técnologia.
+ 
+- 🌱 Estou aprendendo sobre **Flutter e Dart .**   
+          
+- 📲 Atualmente estou fazendo um **App** chamado **CashApp**, para finanças pessoais.
 
 - 📫 Você pode falar comigo através do meu e-mail: **guilhermeevideira15@gmail.com**
 
 - 📄 Aqui você acha todas as minhas principais experiência [https://drive.google.com/file/d/13CyGn6zuczmv8zZu5naKMnNGGj1bBaXn/view?usp=sharing](https://drive.google.com/file/d/13CyGn6zuczmv8zZu5naKMnNGGj1bBaXn/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Minhas outras redes:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/guilherme-de-souza-videira-955797196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilherme-de-souza-videira-955797196/" height="30" width="40" /></a>
 <a href="https://instagram.com/_guivideira_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_guivideira_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<svg viewBox="0 0 128 128">
-<path fill="#03599C" d="M117.5 33.5l.3-.2c-.6-1.1-1.5-2.1-2.4-2.6L67.1 2.9c-.8-.5-1.9-.7-3.1-.7-1.2 0-2.3.3-3.1.7l-48 27.9c-1.7 1-2.9 3.5-2.9 5.4v55.7c0 1.1.2 2.3.9 3.4l-.2.1c.5.8 1.2 1.5 1.9 1.9l48.2 27.9c.8.5 1.9.7 3.1.7 1.2 0 2.3-.3 3.1-.7l48-27.9c1.7-1 2.9-3.5 2.9-5.4V36.1c.1-.8 0-1.7-.4-2.6zM64 88.5c9.1 0 17.1-5 21.3-12.4l12.9 7.6c-6.8 11.8-19.6 19.8-34.2 19.8-21.8 0-39.5-17.7-39.5-39.5S42.2 24.5 64 24.5c14.7 0 27.5 8.1 34.3 20l-13 7.5C81.1 44.5 73.1 39.5 64 39.5c-13.5 0-24.5 11-24.5 24.5s11 24.5 24.5 24.5z"></path>
-</svg>
-          
-
-
-
-<!---
-- 👋 Oi, eu sou o Guilherme Videira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-GuiVideira/GuiVideira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3FB6D3&height=120&section=footer"/>
