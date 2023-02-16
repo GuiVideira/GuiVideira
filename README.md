@@ -21,7 +21,7 @@
           
 - 📲 Atualmente estou fazendo um **App** chamado **CashApp**, para finanças pessoais.
 
-- 📫 Você pode falar comigo através do meu e-mail: **guilhermeevideira15@gmail.com**
+- 📫 Você pode falar comigo através do meu e-mail: **guilhermevideira@outlook.com.br**
 
 - 📄 Aqui você acha todas as minhas principais experiência [https://drive.google.com/file/d/13CyGn6zuczmv8zZu5naKMnNGGj1bBaXn/view?usp=sharing](https://drive.google.com/file/d/13CyGn6zuczmv8zZu5naKMnNGGj1bBaXn/view?usp=sharing)
 
