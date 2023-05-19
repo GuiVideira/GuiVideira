@@ -8,18 +8,22 @@
 
 <div style="display: inline_block"><br>
   <h3 align="center">Languages and Tools:</h3>       
-  <img align="center" alt="Gui-Flutter-Dart" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="GuiVideira-Flutter" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="GuiVideira-Dart" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" >
   <img align="center" alt="GuiVideira-C" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
-  <img align="center" alt="David-Vscode" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="GuiVideira-Vscode" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="GuiVideira-Html" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="GuiVideira-Css" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
+          
 
 
 <h3 align="center">Algumas informações sobre quem sou eu!!!</h3>
 -    Fã de programação e técnologia.
  
-- 🌱 Estou aprendendo sobre **Web(TML, CSS e JS).**   
+- 🌱 Estou aprendendo sobre **Web (HTML, CSS e JS).**   
           
-- 📲 Atualmente estou focando em meu aprendizado.
+- 📲 Atualmente estou focado em meu aprendizado.
 
 - 📫 Você pode falar comigo através do meu e-mail: **guilhermevideira@outlook.com.br**
 
