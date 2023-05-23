@@ -6,6 +6,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuiVideira&bg_color=0d1117&color=3fb6d3&line=ffffff&point=3fbcd3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ <div align="center" style="display:flex; justify-content:space-beetwen;">
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GuiVideira&show_icons=true&theme=blue">
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVideira&layout=compact&theme=blue">
+ 
+</div>
+
 <div style="display: inline_block"><br>
   <h3 align="center">Languages and Tools:</h3>       
   <img align="center" alt="GuiVideira-Flutter" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
@@ -15,7 +21,8 @@
   <img align="center" alt="GuiVideira-Css" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="GuiVideira-Js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
           
-          
+
+<br>         
           
 
 
