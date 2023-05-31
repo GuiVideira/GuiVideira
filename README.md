@@ -43,6 +43,8 @@
 <a href="https://instagram.com/_guivideira_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_guivideira_" height="30" width="40" /></a>
 </p>
  
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuiVideira&bg_color=ffffff&color=3fb6d3&line=3fb6d3&point=bebebe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuiVideira&bg_color=0d1117&color=3fb6d3&line=ffffff&point=3fbcd3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3FB6D3&height=120&section=footer"/>
