@@ -35,7 +35,7 @@
 
 - 📫 Você pode falar comigo através do meu e-mail: **guilhermevideira@outlook.com.br**
 
-- 📄 Aqui você acha as minhas principais  <a href= "https://drive.google.com/file/d/1HMzPdu_Iunty2RDkFZsn0LVuLRobLodB/view?usp=drivesdk" target="blank">experiências </a>
+- 📄 Clicando <a href= "https://drive.google.com/file/d/1HMzPdu_Iunty2RDkFZsn0LVuLRobLodB/view?usp=drivesdk" target="blank">aqui</a>, você pode ver minhas principais experiências.
 
 <h3 align="left">Minhas outras redes:</h3>
 <p align="left">
