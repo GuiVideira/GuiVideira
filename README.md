@@ -27,22 +27,23 @@
           
 
 
-<h3 align="center">Algumas informações sobre quem sou eu!!!</h3>
--    Fã de programação e técnologia.
+<h3 align="center">About me:</h3>
  
-- 🌱 Estou aprendendo sobre **Web (HTML, CSS e JS).**   
+- 🌱 Learning **Web (HTML, CSS e JS).**   
           
-- 📲 Atualmente estou focado em meu aprendizado.
+- 📲 I'm doing some projects with my friends.
 
-- 📫 Você pode falar comigo através do meu e-mail: **guilhermevideira@outlook.com.br**
+- 📫 You can talk with me: **guilhermevideira@outlook.com.br**
 
-- 📄 Clicando <a href= "https://drive.google.com/file/d/1HMzPdu_Iunty2RDkFZsn0LVuLRobLodB/view?usp=drivesdk" target="blank">aqui</a>, você pode ver minhas principais experiências.
+- 📄 Click <a href= "https://drive.google.com/file/d/1HMzPdu_Iunty2RDkFZsn0LVuLRobLodB/view?usp=drivesdk" target="blank">here</a>, to see my my experiences.
 
-<h3 align="left">Minhas outras redes:</h3>
-<p align="left">
+<div align="center" style="display:flex; justify-content:space-beetwen;">
+<h3>Social Media:</h3>
+<p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/guilherme-de-souza-videira-955797196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilherme-de-souza-videira-955797196/" height="30" width="40" /></a>
 <a href="https://instagram.com/_guivideira_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_guivideira_" height="30" width="40" /></a>
 </p>
+</div>
  
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3FB6D3&height=120&section=footer"/>
