@@ -27,7 +27,6 @@
 
 <br>      
 <br>
-
 <div align="center" style="display:flex; justify-content:space-beetwen;">
 <h3 align="center">About me:</h3>
  
