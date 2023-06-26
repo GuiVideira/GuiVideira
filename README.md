@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3FB6D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Videira;I'm+20+years+old;I'm+from+Brazil;I'm+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuiVideira&bg_color=ffffff&color=3fb6d3&line=3fb6d3&point=bebebe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuiVideira&bg_color=101414&color=3fb6d3&line=3fb6d3&point=bebebe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <div align="center" style="display:flex; justify-content:space-beetwen;">
-   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GuiVideira&show_icons=true&theme=blue">
-   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVideira&layout=compact&theme=blue">
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GuiVideira&show_icons=true&theme=dracula">
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVideira&layout=compact&theme=dracula">
 </div>
 
 <br>
